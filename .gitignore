@@ -1,0 +1,9 @@
+Debug/
+Log.txt
+x64/
+osiv/
+lib/
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.suo
