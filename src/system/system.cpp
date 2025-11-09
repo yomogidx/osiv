@@ -59,7 +59,7 @@ void System::load()
     mWindowSizeX = 1280;
     mWindowSizeY = 720;
     mWindowDepthColor = 32;
-    mGameTitle = "推しのVTUBERが家に来たんだが！？";
+    mGameTitle = "ゲームタイトルを設定してください";
     mGameVersion = "1.0.0";
 }
 
